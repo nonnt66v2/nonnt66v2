@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Lorenzo Di Palo
 
 ### About me:
-- 🎓 Computer Science student
+- 🎓 Computer Science Graduated 
 - 🍝 Italian coder
 - 🖥️ Working on my website
 - 🦉 Certified night owl
